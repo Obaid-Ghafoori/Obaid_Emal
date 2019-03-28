@@ -28,7 +28,7 @@ Furthermore, along with the above tools, the following technologies are used for
 ## Installing / Source :
    
 The technologies used in this project can be fine with the following sources and the installation is straight forward with a minimum exceptions.
-* [HERA](https://apps.fhict.nl/selfservice/)
+*c
 * [Atom](https://atom.io/)
 * [FileZilla](https://filezilla-project.org/download.php?type=client )
 * [PhpStorm](https://www.jetbrains.com/student/) 
@@ -53,6 +53,10 @@ or any other method with the owners of this repository before making a change. A
 ## Authors:
 
 Zahari Georgiev and Obaid Ghafoori  are the authors of this project.
+
+## Visit our website:
+
+Here is the  [link](http://i414223.hera.fhict.nl/index.php) to access our website!
 
 
 ## License:
